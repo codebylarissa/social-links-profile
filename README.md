@@ -18,5 +18,4 @@ Você pode visualizar a aplicação rodando na prática através do link abaixo:
 - **GitHub Pages:** [Acessar demonstração](https://codebylarissa.github.io/social-links-profile/)
 
 ---
-Feito com 💜 por **Larissa**  
-GitHub: [@codebylarissa](https://github.com/codebylarissa)
+Feito com 💜 por [@codebylarissa](https://github.com/codebylarissa)
